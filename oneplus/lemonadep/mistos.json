@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "",
+      "oem": "",
+      "device": "",
+      "filename": "MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-0536-lemonadep-UNOFFICIAL.zip",
+      "download": "\n\u001b[0;34m→ Uploading ROM zip to SourceForge via SSH...\u001b[0m\n\u001b[0;31m✗ No ROM zip found matching pattern: MistOS-*-lemonadep.zip\u001b[0m",
+      "timestamp": 1779081567,
+      "md5": "339c72a2d06a916c2541fafdde0062cc",
+      "sha256": "8e1ea02357fe4c701157ab256853eaa03c53308ed41bd33cb352aa5a5495c2a7",
+      "size": 2827343827,
+      "version": "4.6.1-Lucent-HotFix",
+      "buildtype": "GAPPS",
+      "forum": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": ""
+    }
+  ]
+}
