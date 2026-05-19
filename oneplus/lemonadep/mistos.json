@@ -4,12 +4,12 @@
       "maintainer": "",
       "oem": "",
       "device": "",
-      "filename": "MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-1416-lemonadep-UNOFFICIAL.zip",
-      "download": "https://sourceforge.net/projects/mist-rom/files/lemonadep/android16/MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-1416-lemonadep-UNOFFICIAL.zip/download",
-      "timestamp": 1779112974,
-      "md5": "8045bbd6f792cd82ec773e5ba8fd72ad",
-      "sha256": "c6878846e1c267eaf9817561a832170da8a20308547df7743c8edde71c0f2155",
-      "size": 2827344271,
+      "filename": "MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-2128-lemonadep-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/mist-rom/files/android16/lemonadep/MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-2128-lemonadep-UNOFFICIAL.zip/download",
+      "timestamp": 1779138752,
+      "md5": "c117c2fa50382a019bb59755c3a7c1da",
+      "sha256": "d8459cccbeb2b075200e89e534eab470e498cb012327694d4122d43119b35862",
+      "size": 2827343703,
       "version": "4.6.1-Lucent-HotFix",
       "buildtype": "GAPPS",
       "forum": "",
@@ -18,5 +18,5 @@
       "telegram": ""
     }
   ],
-  "download": "https://sourceforge.net/projects/mist-rom/files/android16/lemonadep/MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-1416-lemonadep-UNOFFICIAL.zip/download"
+  "download": "https://sourceforge.net/projects/mist-rom/files/android16/lemonadep/MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260518-2128-lemonadep-UNOFFICIAL.zip/download"
 }
